@@ -109,4 +109,4 @@ IBM WatsonX · August 2025
 
 - 🔗 GitHub Repository: [https://github.com/erline1108/amazon-review-granite-capstone-project/edit/main/README.md]
 - 🔗 Google Colab Notebook: [https://colab.research.google.com/drive/11p9cXgZj60GqBKLcmf4GG-lLNmRJBNnM?usp=sharing]
-- 🔗 Slide Presentation: [Link to PDF/PPT]
+- 🔗 Slide Presentation: [https://l1nk.dev/iQdjx]
