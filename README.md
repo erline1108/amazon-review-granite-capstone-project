@@ -1,6 +1,6 @@
 # amazon-review-granite-capstone-project
 Capstone project for Amazon customer review summarization and classification using IBM Granite.
-# 📦 Amazon Review Analytics Using IBM Granite
+# 📦 AI-Powered Analysis of Amazon Consumer Reviews for Business Insight
 
 ## 📌 Project Overview
 
